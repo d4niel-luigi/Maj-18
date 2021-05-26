@@ -1,0 +1,73 @@
+﻿body {
+    font-size: 11pt;
+    background-image: url(img/bg.png);
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana;
+}
+
+p {
+    text-align: justify;
+    margin: 5px;
+}
+
+p.bev {
+    font-style: italic;
+    font-size: small;
+}
+
+hr {
+    margin: auto;
+    width: 80%;
+    border: 1px solid black;
+}
+
+h1,
+h2 {
+    padding: 5px;
+    color: #dc143c
+}
+
+h2 {
+    font-size: 17px;
+}
+
+#tartalom {
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
+
+#oszlop1,
+#oszlop2,
+#oszlop3 {
+    float: left;
+    padding: 0px;
+    width: 310px;
+}
+
+.kep {
+    width: 240px;
+    margin-left: 30px;
+}
+
+a {
+    color: #dc143c;
+}
+
+#lablec {
+    clear: both;
+}
+
+.main {
+    width: 930px;
+    background-color: #f0f8ff;
+    margin: auto;
+}
+
+.bevezet {
+    margin: auto;
+}
+
+.veg {
+    margin: auto;
+}
